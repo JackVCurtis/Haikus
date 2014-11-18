@@ -1,0 +1,3 @@
+If you want to git
+You must enter git init
+git status in here
